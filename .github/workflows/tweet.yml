@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install the dependencies
-        run: pip install -r dep.txt
+        run: pip install -r requirements.txt
 
       - name: Make the tweet
         run: python main.py
