@@ -94,10 +94,13 @@ def work():
 def run():
   while True:
     try:
-      previous_id = open("previous_tweet_id.txt").read()
-      if previous_id.replace(" ", "") != "":
-        client.retweet(previous_id.replace("\n", ""))
-      time.sleep(6)      
+      try:
+        previous_id = open("previous_tweet_id.txt").read()
+        if previous_id.replace(" ", "") != "":
+          client.retweet(previous_id.replace("\n", ""))
+        time.sleep(6)      
+      except Exception:
+        pass
       
       seconds = random.randint(0, 10) * 60
       print(seconds)
