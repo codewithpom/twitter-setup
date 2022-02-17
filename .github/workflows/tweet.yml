@@ -1,7 +1,9 @@
 name: "Programming JOKE"
 on:
   schedule:
-  - cron: "0,30,45 * * * *"
+    - cron: "0,30,45 * * * *"
+  
+  push:
 
 jobs:
   stale:
