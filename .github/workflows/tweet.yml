@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: "0,30,45 * * * *"
   
-  push:
 
 jobs:
   Make_Tweet:
