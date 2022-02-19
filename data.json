@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "What is a dying programmer's last program?",
-    "delivery": "Goodbye, world!",
+    "type": "single",
+    "joke": "The generation of random numbers is too important to be left to chance.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 56,
+    "id": 39,
     "safe": true,
     "lang": "en"
 }
