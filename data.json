@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Debugging: Removing the needles from the haystack.",
+    "type": "twopart",
+    "setup": "Hey baby I wish your name was asynchronous...",
+    "delivery": "... so you'd give me a callback.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 40,
+    "id": 54,
     "safe": true,
     "lang": "en"
 }
