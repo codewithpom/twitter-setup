@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
-    "delivery": "An Al-Gore-ithm.",
+    "type": "single",
+    "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 52,
+    "id": 180,
     "safe": true,
     "lang": "en"
 }
