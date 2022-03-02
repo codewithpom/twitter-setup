@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+    "type": "twopart",
+    "setup": "How did the programmer die in the shower?",
+    "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 221,
-    "safe": true,
+    "safe": false,
+    "id": 266,
     "lang": "en"
 }
