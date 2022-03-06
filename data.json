@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+    "type": "twopart",
+    "setup": "How can you tell an extroverted programmer?",
+    "delivery": "He looks at YOUR shoes when he's talking.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 17,
     "safe": true,
-    "id": 301,
     "lang": "en"
 }
