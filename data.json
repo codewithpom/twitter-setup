@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "The generation of random numbers is too important to be left to chance.",
+    "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 39,
+    "id": 12,
     "safe": true,
     "lang": "en"
 }
