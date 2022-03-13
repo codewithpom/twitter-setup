@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+    "type": "twopart",
+    "setup": "Why do programmers confuse Halloween and Christmas?",
+    "delivery": "Because Oct 31 = Dec 25",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 180,
+    "id": 11,
     "safe": true,
     "lang": "en"
 }
