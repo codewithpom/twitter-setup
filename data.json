@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Debugging: Removing the needles from the haystack.",
+    "type": "twopart",
+    "setup": "Why did the database administrator leave his wife?",
+    "delivery": "She had one-to-many relationships.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 40,
     "safe": true,
+    "id": 265,
     "lang": "en"
 }
