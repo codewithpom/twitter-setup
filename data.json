@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "What's the object-oriented way to become wealthy?",
-    "delivery": "Inheritance.",
+    "setup": "Why are modern programming languages so materialistic?",
+    "delivery": "Because they are object-oriented.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 46,
+    "id": 21,
     "safe": true,
     "lang": "en"
 }
