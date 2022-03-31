@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why is Linux safe?",
-    "delivery": "Hackers peak through Windows only.",
+    "setup": "Why did the database administrator leave his wife?",
+    "delivery": "She had one-to-many relationships.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -13,6 +13,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 260,
+    "id": 265,
     "lang": "en"
 }
