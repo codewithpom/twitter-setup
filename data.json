@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why do programmers confuse Halloween and Christmas?",
-    "delivery": "Because Oct 31 = Dec 25",
+    "type": "single",
+    "joke": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 11,
+    "id": 3,
     "safe": true,
     "lang": "en"
 }
