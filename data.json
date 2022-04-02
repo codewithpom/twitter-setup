@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "\"We messed up the keming again guys.\"",
+    "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 20,
+    "id": 37,
     "safe": true,
     "lang": "en"
 }
