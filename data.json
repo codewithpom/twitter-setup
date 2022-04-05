@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why are Assembly programmers always soaking wet?",
-    "delivery": "They work below C-level.",
+    "type": "single",
+    "joke": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 18,
     "safe": true,
-    "id": 264,
     "lang": "en"
 }
