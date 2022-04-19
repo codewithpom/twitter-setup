@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+    "type": "twopart",
+    "setup": "Why is Linux safe?",
+    "delivery": "Hackers peak through Windows only.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 22,
     "safe": true,
+    "id": 260,
     "lang": "en"
 }
