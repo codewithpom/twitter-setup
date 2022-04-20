@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "The generation of random numbers is too important to be left to chance.",
+    "type": "twopart",
+    "setup": "What is the most used language in programming?",
+    "delivery": "Profanity.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 39,
+    "id": 193,
     "safe": true,
     "lang": "en"
 }
