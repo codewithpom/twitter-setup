@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "How many programmers does it take to screw in a light bulb?",
-    "delivery": "None. It's a hardware problem.",
+    "type": "single",
+    "joke": "I've got a really good UDP joke to tell you but I don’t know if you'll get it.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 1,
+    "id": 0,
     "safe": true,
     "lang": "en"
 }
