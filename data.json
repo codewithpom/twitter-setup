@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why do Java programmers hate communism?",
-    "delivery": "They don't want to live in a classless society.",
+    "type": "single",
+    "joke": "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 53,
-    "safe": true,
+    "id": 184,
+    "safe": false,
     "lang": "en"
 }
