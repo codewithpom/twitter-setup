@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "I'd tell you a joke about NAT but I would have to translate.",
+    "type": "twopart",
+    "setup": "How did the programmer die in the shower?",
+    "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "safe": true,
-    "id": 319,
+    "safe": false,
+    "id": 266,
     "lang": "en"
 }
