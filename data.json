@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+    "type": "twopart",
+    "setup": "Why did the JavaScript heap close shop?",
+    "delivery": "It ran out of memory.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 12,
+    "id": 31,
     "safe": true,
     "lang": "en"
 }
