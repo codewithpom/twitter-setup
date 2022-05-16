@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"We messed up the keming again guys.\"",
+    "type": "twopart",
+    "setup": "Why did the functional programmer get thrown out of school?",
+    "delivery": "Because he refused to take classes.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 20,
+    "id": 48,
     "safe": true,
     "lang": "en"
 }
