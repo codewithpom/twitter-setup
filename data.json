@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
-    "delivery": "Because 7 8 9 A?",
+    "setup": "Hey baby I wish your name was asynchronous...",
+    "delivery": "... so you'd give me a callback.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 7,
+    "id": 54,
     "safe": true,
     "lang": "en"
 }
