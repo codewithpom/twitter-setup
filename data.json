@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "How can you tell an extroverted programmer?",
-    "delivery": "He looks at YOUR shoes when he's talking.",
+    "type": "single",
+    "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 17,
+    "id": 34,
     "safe": true,
     "lang": "en"
 }
