@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why was the JavaScript developer sad?",
-    "delivery": "Because they didn't Node how to Express themself!",
+    "setup": "How do you generate a random string?",
+    "delivery": "Put a Windows user in front of Vim and tell them to exit.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 127,
     "safe": true,
-    "id": 292,
     "lang": "en"
 }
