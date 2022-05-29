@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+    "type": "twopart",
+    "setup": "How do you generate a random string?",
+    "delivery": "Put a Windows user in front of Vim and tell them to exit.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 51,
+    "id": 127,
     "safe": true,
     "lang": "en"
 }
