@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+    "type": "twopart",
+    "setup": "How did the programmer die in the shower?",
+    "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 43,
-    "safe": true,
+    "safe": false,
+    "id": 266,
     "lang": "en"
 }
