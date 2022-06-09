@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why do Java programmers hate communism?",
-    "delivery": "They don't want to live in a classless society.",
+    "type": "single",
+    "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 53,
+    "id": 51,
     "safe": true,
     "lang": "en"
 }
