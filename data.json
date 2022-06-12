@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+    "type": "twopart",
+    "setup": "Why did the web developer walk out of a resturant in disgust?",
+    "delivery": "The seating was laid out in tables.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 36,
+    "id": 6,
     "safe": true,
     "lang": "en"
 }
