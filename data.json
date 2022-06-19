@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Hey, wanna hear a joke?",
-    "delivery": "Parsing HTML with regex.",
+    "setup": "Why did the programmer quit his job?",
+    "delivery": "Because he didn't get arrays.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 10,
+    "id": 16,
     "safe": true,
     "lang": "en"
 }
