@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+    "type": "twopart",
+    "setup": "How did the programmer die in the shower?",
+    "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 4,
-    "safe": true,
+    "safe": false,
+    "id": 266,
     "lang": "en"
 }
