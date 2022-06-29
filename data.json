@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why was the JavaScript developer sad?",
-    "delivery": "Because they didn't Node how to Express themself!",
+    "setup": "What are bits?",
+    "delivery": "Tiny things left when you drop your computer down the stairs.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 211,
     "safe": true,
-    "id": 292,
     "lang": "en"
 }
