@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Debugging: Removing the needles from the haystack.",
+    "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 40,
+    "id": 44,
     "safe": true,
     "lang": "en"
 }
