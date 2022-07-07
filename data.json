@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "What is a dying programmer's last program?",
-    "delivery": "Goodbye, world!",
+    "type": "single",
+    "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 56,
+    "id": 42,
     "safe": true,
     "lang": "en"
 }
