@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "What is a dying programmer's last program?",
-    "delivery": "Goodbye, world!",
+    "setup": "Why did the programmer jump on the table?",
+    "delivery": "Because debug was on his screen.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 56,
+    "id": 214,
     "safe": true,
     "lang": "en"
 }
