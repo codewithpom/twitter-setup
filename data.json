@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why did the programmer jump on the table?",
-    "delivery": "Because debug was on his screen.",
+    "type": "single",
+    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 214,
-    "safe": true,
+    "id": 27,
+    "safe": false,
     "lang": "en"
 }
