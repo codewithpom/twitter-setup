@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Hey baby I wish your name was asynchronous...",
-    "delivery": "... so you'd give me a callback.",
+    "type": "single",
+    "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 54,
     "safe": true,
+    "id": 301,
     "lang": "en"
 }
