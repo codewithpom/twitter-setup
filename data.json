@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+    "type": "twopart",
+    "setup": "How did you make your friend rage?",
+    "delivery": "I implemented a greek question mark in his JavaScript code.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 57,
+    "id": 147,
     "safe": true,
     "lang": "en"
 }
