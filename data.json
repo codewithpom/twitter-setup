@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "I'd tell you a joke about NAT but I would have to translate.",
+    "type": "twopart",
+    "setup": "What is a dying programmer's last program?",
+    "delivery": "Goodbye, world!",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 56,
     "safe": true,
-    "id": 319,
     "lang": "en"
 }
