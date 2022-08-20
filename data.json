@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.",
+    "type": "twopart",
+    "setup": "How did you make your friend rage?",
+    "delivery": "I implemented a greek question mark in his JavaScript code.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 184,
-    "safe": false,
+    "id": 147,
+    "safe": true,
     "lang": "en"
 }
