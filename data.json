@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+    "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 44,
     "safe": true,
+    "id": 301,
     "lang": "en"
 }
