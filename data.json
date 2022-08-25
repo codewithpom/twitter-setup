@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+    "type": "twopart",
+    "setup": "Why do programmers wear glasses?",
+    "delivery": "Because they need to C#",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 5,
+    "id": 50,
     "safe": true,
     "lang": "en"
 }
