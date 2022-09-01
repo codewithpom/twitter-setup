@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+    "type": "twopart",
+    "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
+    "delivery": "A regular expression.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 43,
+    "id": 26,
     "safe": true,
     "lang": "en"
 }
