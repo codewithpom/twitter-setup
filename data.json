@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "How did the programmer die in the shower?",
-    "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
+    "type": "single",
+    "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "safe": false,
-    "id": 266,
+    "id": 33,
+    "safe": true,
     "lang": "en"
 }
