@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why do programmers confuse Halloween and Christmas?",
-    "delivery": "Because Oct 31 = Dec 25",
+    "type": "single",
+    "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 11,
+    "id": 37,
     "safe": true,
     "lang": "en"
 }
