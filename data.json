@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
-    "delivery": "A regular expression.",
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because they didn't Node how to Express themself!",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 26,
     "safe": true,
+    "id": 292,
     "lang": "en"
 }
