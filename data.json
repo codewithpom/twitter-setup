@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+    "type": "twopart",
+    "setup": "How many programmers does it take to screw in a light bulb?",
+    "delivery": "None. It's a hardware problem.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 57,
+    "id": 1,
     "safe": true,
     "lang": "en"
 }
