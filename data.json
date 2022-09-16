@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+    "type": "twopart",
+    "setup": "Why are Assembly programmers always soaking wet?",
+    "delivery": "They work below C-level.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 35,
     "safe": true,
+    "id": 264,
     "lang": "en"
 }
