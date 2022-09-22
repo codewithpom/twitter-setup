@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
+    "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 27,
-    "safe": false,
+    "id": 42,
+    "safe": true,
     "lang": "en"
 }
