@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 5,
-    "safe": true,
+    "id": 27,
+    "safe": false,
     "lang": "en"
 }
