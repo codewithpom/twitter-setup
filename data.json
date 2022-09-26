@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+    "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 23,
+    "id": 12,
     "safe": true,
     "lang": "en"
 }
