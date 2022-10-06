@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+    "joke": "I'd tell you a joke about NAT but I would have to translate.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 57,
     "safe": true,
+    "id": 319,
     "lang": "en"
 }
