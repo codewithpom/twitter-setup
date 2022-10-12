@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+    "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 44,
+    "id": 23,
     "safe": true,
     "lang": "en"
 }
