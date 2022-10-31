@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+    "type": "twopart",
+    "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+    "delivery": "An Al-Gore-ithm.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 41,
+    "id": 52,
     "safe": true,
     "lang": "en"
 }
