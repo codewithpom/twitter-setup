@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "why do python programmers wear glasses?",
-    "delivery": "Because they can't C.",
+    "type": "single",
+    "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 44,
     "safe": true,
-    "id": 294,
     "lang": "en"
 }
