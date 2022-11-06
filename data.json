@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "I'd tell you a joke about NAT but I would have to translate.",
+    "joke": "The generation of random numbers is too important to be left to chance.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 39,
     "safe": true,
-    "id": 319,
     "lang": "en"
 }
