@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": ".NET developers are picky when it comes to food.",
-    "delivery": "They only like chicken NuGet.",
+    "setup": "Hey, wanna hear a joke?",
+    "delivery": "Parsing HTML with regex.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 49,
+    "id": 10,
     "safe": true,
     "lang": "en"
 }
