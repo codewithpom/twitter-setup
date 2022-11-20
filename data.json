@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "How did the programmer die in the shower?",
-    "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
+    "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+    "delivery": "An Al-Gore-ithm.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "safe": false,
-    "id": 266,
+    "id": 52,
+    "safe": true,
     "lang": "en"
 }
