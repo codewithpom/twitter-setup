@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+    "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 42,
+    "id": 22,
     "safe": true,
     "lang": "en"
 }
