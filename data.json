@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "type": "twopart",
+    "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
+    "delivery": "A regular expression.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 37,
+    "id": 26,
     "safe": true,
     "lang": "en"
 }
