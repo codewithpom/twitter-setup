@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+    "type": "twopart",
+    "setup": "How many programmers does it take to screw in a light bulb?",
+    "delivery": "None. It's a hardware problem.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 2,
+    "id": 1,
     "safe": true,
     "lang": "en"
 }
