@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "I'd tell you a joke about NAT but I would have to translate.",
+    "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 23,
     "safe": true,
-    "id": 319,
     "lang": "en"
 }
