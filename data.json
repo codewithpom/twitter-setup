@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+    "type": "twopart",
+    "setup": "What do you call a group of 8 Hobbits?",
+    "delivery": "A Hobbyte.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 34,
+    "id": 29,
     "safe": true,
     "lang": "en"
 }
