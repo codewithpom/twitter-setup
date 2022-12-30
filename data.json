@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Hey, wanna hear a joke?",
-    "delivery": "Parsing HTML with regex.",
+    "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+    "delivery": "An Al-Gore-ithm.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 10,
+    "id": 52,
     "safe": true,
     "lang": "en"
 }
