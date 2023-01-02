@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "How many programmers does it take to screw in a light bulb?",
-    "delivery": "None. It's a hardware problem.",
+    "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+    "delivery": "An Al-Gore-ithm.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 1,
+    "id": 52,
     "safe": true,
     "lang": "en"
 }
