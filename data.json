@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "ASCII silly question, get a silly ANSI.",
+    "type": "twopart",
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because they didn't Node how to Express themself!",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 25,
     "safe": true,
+    "id": 292,
     "lang": "en"
 }
