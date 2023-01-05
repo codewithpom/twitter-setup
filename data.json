@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+    "type": "twopart",
+    "setup": "How did the programmer die in the shower?",
+    "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 2,
-    "safe": true,
+    "safe": false,
+    "id": 266,
     "lang": "en"
 }
