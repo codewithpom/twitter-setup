@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.",
+    "type": "twopart",
+    "setup": "Why do programmers wear glasses?",
+    "delivery": "Because they need to C#",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 184,
-    "safe": false,
+    "id": 50,
+    "safe": true,
     "lang": "en"
 }
