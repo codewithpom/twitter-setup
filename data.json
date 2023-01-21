@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "I'd tell you a joke about NAT but I would have to translate.",
+    "joke": "ASCII silly question, get a silly ANSI.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 25,
     "safe": true,
-    "id": 319,
     "lang": "en"
 }
