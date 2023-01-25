@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why did the functional programmer get thrown out of school?",
-    "delivery": "Because he refused to take classes.",
+    "type": "single",
+    "joke": "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 48,
-    "safe": true,
+    "id": 184,
+    "safe": false,
     "lang": "en"
 }
