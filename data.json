@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "I'd tell you a joke about NAT but I would have to translate.",
+    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "safe": true,
-    "id": 319,
+    "id": 27,
+    "safe": false,
     "lang": "en"
 }
