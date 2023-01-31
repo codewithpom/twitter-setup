@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why is Linux safe?",
-    "delivery": "Hackers peak through Windows only.",
+    "type": "single",
+    "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 221,
     "safe": true,
-    "id": 260,
     "lang": "en"
 }
