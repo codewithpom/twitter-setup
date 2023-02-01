@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 37,
+    "id": 23,
     "safe": true,
     "lang": "en"
 }
