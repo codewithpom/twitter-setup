@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "I'd tell you a joke about NAT but I would have to translate.",
+    "type": "twopart",
+    "setup": "Why is Linux safe?",
+    "delivery": "Hackers peak through Windows only.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,6 +13,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 319,
+    "id": 260,
     "lang": "en"
 }
