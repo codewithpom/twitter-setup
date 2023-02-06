@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+    "type": "twopart",
+    "setup": "Why did the JavaScript heap close shop?",
+    "delivery": "It ran out of memory.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 51,
+    "id": 31,
     "safe": true,
     "lang": "en"
 }
