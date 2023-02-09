@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+    "joke": "ASCII silly question, get a silly ANSI.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 180,
+    "id": 25,
     "safe": true,
     "lang": "en"
 }
