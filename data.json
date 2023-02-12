@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+    "type": "twopart",
+    "setup": "Hey baby I wish your name was asynchronous...",
+    "delivery": "... so you'd give me a callback.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 36,
+    "id": 54,
     "safe": true,
     "lang": "en"
 }
