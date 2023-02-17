@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why did the database administrator leave his wife?",
-    "delivery": "She had one-to-many relationships.",
+    "type": "single",
+    "joke": "I'd tell you a joke about NAT but I would have to translate.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -13,6 +12,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 265,
+    "id": 319,
     "lang": "en"
 }
