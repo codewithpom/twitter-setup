@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why are Assembly programmers always soaking wet?",
-    "delivery": "They work below C-level.",
+    "setup": "Why did the database administrator leave his wife?",
+    "delivery": "She had one-to-many relationships.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -13,6 +13,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 264,
+    "id": 265,
     "lang": "en"
 }
