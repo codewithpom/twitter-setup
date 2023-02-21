@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why did the database administrator leave his wife?",
-    "delivery": "She had one-to-many relationships.",
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because they didn't Node how to Express themself!",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -13,6 +13,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 265,
+    "id": 292,
     "lang": "en"
 }
