@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "What is the most used language in programming?",
-    "delivery": "Profanity.",
+    "setup": "What is the best prefix for global variables?",
+    "delivery": "//",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 193,
+    "id": 32,
     "safe": true,
     "lang": "en"
 }
