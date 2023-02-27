@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why was the JavaScript developer sad?",
-    "delivery": "Because they didn't Node how to Express themself!",
+    "setup": "Why is Linux safe?",
+    "delivery": "Hackers peak through Windows only.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -13,6 +13,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 292,
+    "id": 260,
     "lang": "en"
 }
