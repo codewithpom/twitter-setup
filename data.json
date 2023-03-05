@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "I've got a really good UDP joke to tell you but I don’t know if you'll get it.",
+    "type": "twopart",
+    "setup": "Why did the programmer jump on the table?",
+    "delivery": "Because debug was on his screen.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 0,
+    "id": 214,
     "safe": true,
     "lang": "en"
 }
