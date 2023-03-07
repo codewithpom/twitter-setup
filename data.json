@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Hey baby I wish your name was asynchronous...",
-    "delivery": "... so you'd give me a callback.",
+    "type": "single",
+    "joke": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 54,
+    "id": 41,
     "safe": true,
     "lang": "en"
 }
