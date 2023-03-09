@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why is Linux safe?",
-    "delivery": "Hackers peak through Windows only.",
+    "type": "single",
+    "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -13,6 +12,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 260,
+    "id": 301,
     "lang": "en"
 }
