@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
+    "joke": "The generation of random numbers is too important to be left to chance.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 27,
-    "safe": false,
+    "id": 39,
+    "safe": true,
     "lang": "en"
 }
