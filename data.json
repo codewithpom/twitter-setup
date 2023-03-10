@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+    "type": "twopart",
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because they didn't Node how to Express themself!",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 3,
     "safe": true,
+    "id": 292,
     "lang": "en"
 }
