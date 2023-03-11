@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+    "type": "twopart",
+    "setup": "Why did the database administrator leave his wife?",
+    "delivery": "She had one-to-many relationships.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 36,
     "safe": true,
+    "id": 265,
     "lang": "en"
 }
