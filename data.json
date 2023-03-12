@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 37,
-    "safe": true,
+    "id": 27,
+    "safe": false,
     "lang": "en"
 }
