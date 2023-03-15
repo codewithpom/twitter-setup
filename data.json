@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Debugging: Removing the needles from the haystack.",
+    "type": "twopart",
+    "setup": ".NET developers are picky when it comes to food.",
+    "delivery": "They only like chicken NuGet.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 40,
+    "id": 49,
     "safe": true,
     "lang": "en"
 }
