@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "How do you generate a random string?",
-    "delivery": "Put a Windows user in front of Vim and tell them to exit.",
+    "type": "single",
+    "joke": "\"We messed up the keming again guys.\"",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 127,
+    "id": 20,
     "safe": true,
     "lang": "en"
 }
