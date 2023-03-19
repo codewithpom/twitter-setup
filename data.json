@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "What do you call a group of 8 Hobbits?",
-    "delivery": "A Hobbyte.",
+    "type": "single",
+    "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 29,
+    "id": 23,
     "safe": true,
     "lang": "en"
 }
