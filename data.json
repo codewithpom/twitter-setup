@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why do programmers prefer using the dark mode?",
-    "delivery": "Because light attracts bugs.",
+    "setup": "What's the object-oriented way to become wealthy?",
+    "delivery": "Inheritance.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 232,
+    "id": 46,
     "safe": true,
     "lang": "en"
 }
