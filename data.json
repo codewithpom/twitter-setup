@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
-    "delivery": "A regular expression.",
+    "type": "single",
+    "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 26,
+    "id": 42,
     "safe": true,
     "lang": "en"
 }
