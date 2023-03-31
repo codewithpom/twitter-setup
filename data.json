@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+    "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 221,
+    "id": 180,
     "safe": true,
     "lang": "en"
 }
