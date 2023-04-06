@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "What's the object-oriented way to become wealthy?",
-    "delivery": "Inheritance.",
+    "setup": "What do you call a developer who doesn't comment code?",
+    "delivery": "A developer.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 46,
+    "id": 14,
     "safe": true,
     "lang": "en"
 }
