@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": ".NET developers are picky when it comes to food.",
-    "delivery": "They only like chicken NuGet.",
+    "type": "single",
+    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 49,
-    "safe": true,
+    "id": 27,
+    "safe": false,
     "lang": "en"
 }
