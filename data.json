@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "How did you make your friend rage?",
-    "delivery": "I implemented a greek question mark in his JavaScript code.",
+    "setup": "Why did the database administrator leave his wife?",
+    "delivery": "She had one-to-many relationships.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 147,
     "safe": true,
+    "id": 265,
     "lang": "en"
 }
