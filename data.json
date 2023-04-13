@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": ".NET developers are picky when it comes to food.",
-    "delivery": "They only like chicken NuGet.",
+    "setup": "How did you make your friend rage?",
+    "delivery": "I implemented a greek question mark in his JavaScript code.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 49,
+    "id": 147,
     "safe": true,
     "lang": "en"
 }
