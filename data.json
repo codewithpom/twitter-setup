@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why was the JavaScript developer sad?",
-    "delivery": "Because they didn't Node how to Express themself!",
+    "type": "single",
+    "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -13,6 +12,6 @@
         "explicit": false
     },
     "safe": true,
-    "id": 292,
+    "id": 301,
     "lang": "en"
 }
