@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "\"We messed up the keming again guys.\"",
+    "joke": "ASCII silly question, get a silly ANSI.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 20,
+    "id": 25,
     "safe": true,
     "lang": "en"
 }
