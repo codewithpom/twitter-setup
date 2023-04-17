@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+    "type": "twopart",
+    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+    "delivery": "Because 7 8 9 A?",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 12,
+    "id": 7,
     "safe": true,
     "lang": "en"
 }
