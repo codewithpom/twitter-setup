@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why did the programmer jump on the table?",
-    "delivery": "Because debug was on his screen.",
+    "type": "single",
+    "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 214,
+    "id": 44,
     "safe": true,
     "lang": "en"
 }
