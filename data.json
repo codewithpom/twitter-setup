@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+    "type": "twopart",
+    "setup": "Why is Linux safe?",
+    "delivery": "Hackers peak through Windows only.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 51,
     "safe": true,
+    "id": 260,
     "lang": "en"
 }
