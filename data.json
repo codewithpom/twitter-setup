@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
-    "delivery": "Because 7 8 9 A?",
+    "setup": "How can you tell an extroverted programmer?",
+    "delivery": "He looks at YOUR shoes when he's talking.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 7,
+    "id": 17,
     "safe": true,
     "lang": "en"
 }
