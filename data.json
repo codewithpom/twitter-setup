@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why does no one like SQLrillex?",
-    "delivery": "He keeps dropping the database.",
+    "setup": "Why did the JavaScript heap close shop?",
+    "delivery": "It ran out of memory.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 13,
+    "id": 31,
     "safe": true,
     "lang": "en"
 }
