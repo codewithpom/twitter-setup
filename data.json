@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+    "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 12,
+    "id": 180,
     "safe": true,
     "lang": "en"
 }
