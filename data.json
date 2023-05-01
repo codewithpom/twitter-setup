@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why do they call it hyper terminal?",
-    "delivery": "Too much Java.",
+    "type": "single",
+    "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 226,
+    "id": 259,
     "safe": true,
     "lang": "en"
 }
