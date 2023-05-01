@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "How can you tell an extroverted programmer?",
-    "delivery": "He looks at YOUR shoes when he's talking.",
+    "setup": "What do you call a group of 8 Hobbits?",
+    "delivery": "A Hobbyte.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 17,
+    "id": 29,
     "safe": true,
     "lang": "en"
 }
