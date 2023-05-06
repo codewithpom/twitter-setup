@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+    "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 35,
+    "id": 22,
     "safe": true,
     "lang": "en"
 }
