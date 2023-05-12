@@ -1,9 +1,8 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "why do python programmers wear glasses?",
-    "delivery": "Because they can't C.",
+    "type": "single",
+    "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 22,
     "safe": true,
-    "id": 294,
     "lang": "en"
 }
