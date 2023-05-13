@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+    "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 259,
+    "id": 180,
     "safe": true,
     "lang": "en"
 }
