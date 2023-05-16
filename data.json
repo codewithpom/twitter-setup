@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+    "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 44,
+    "id": 51,
     "safe": true,
     "lang": "en"
 }
