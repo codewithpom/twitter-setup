@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
+    "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 27,
-    "safe": false,
+    "id": 36,
+    "safe": true,
     "lang": "en"
 }
