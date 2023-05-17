@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+    "type": "twopart",
+    "setup": "why do python programmers wear glasses?",
+    "delivery": "Because they can't C.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 259,
     "safe": true,
+    "id": 294,
     "lang": "en"
 }
