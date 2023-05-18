@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+    "type": "twopart",
+    "setup": "Why did the functional programmer get thrown out of school?",
+    "delivery": "Because he refused to take classes.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 221,
+    "id": 48,
     "safe": true,
     "lang": "en"
 }
