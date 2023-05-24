@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why do Java programmers hate communism?",
-    "delivery": "They don't want to live in a classless society.",
+    "setup": "Why does no one like SQLrillex?",
+    "delivery": "He keeps dropping the database.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 53,
+    "id": 13,
     "safe": true,
     "lang": "en"
 }
