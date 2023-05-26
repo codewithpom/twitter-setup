@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"We messed up the keming again guys.\"",
+    "type": "twopart",
+    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+    "delivery": "Because 7 8 9 A?",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 20,
+    "id": 7,
     "safe": true,
     "lang": "en"
 }
