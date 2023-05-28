@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+    "type": "twopart",
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because they didn't Node how to Express themself!",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 42,
     "safe": true,
+    "id": 292,
     "lang": "en"
 }
