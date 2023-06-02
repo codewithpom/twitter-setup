@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "type": "twopart",
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because they didn't Node how to Express themself!",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 37,
     "safe": true,
+    "id": 292,
     "lang": "en"
 }
