@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
+    "type": "twopart",
+    "setup": "How did you make your friend rage?",
+    "delivery": "I implemented a greek question mark in his JavaScript code.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 27,
-    "safe": false,
+    "id": 147,
+    "safe": true,
     "lang": "en"
 }
