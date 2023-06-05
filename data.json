@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+    "type": "twopart",
+    "setup": "What is the best prefix for global variables?",
+    "delivery": "//",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 221,
+    "id": 32,
     "safe": true,
     "lang": "en"
 }
