@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+    "type": "twopart",
+    "setup": "Why do programmers confuse Halloween and Christmas?",
+    "delivery": "Because Oct 31 = Dec 25",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 44,
+    "id": 11,
     "safe": true,
     "lang": "en"
 }
