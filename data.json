@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+    "type": "twopart",
+    "setup": "Why are Assembly programmers always soaking wet?",
+    "delivery": "They work below C-level.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 51,
     "safe": true,
+    "id": 264,
     "lang": "en"
 }
