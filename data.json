@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+    "type": "twopart",
+    "setup": "Why does no one like SQLrillex?",
+    "delivery": "He keeps dropping the database.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 18,
+    "id": 13,
     "safe": true,
     "lang": "en"
 }
