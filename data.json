@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why did the database administrator leave his wife?",
-    "delivery": "She had one-to-many relationships.",
+    "setup": "Hey baby I wish your name was asynchronous...",
+    "delivery": "... so you'd give me a callback.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
+    "id": 54,
     "safe": true,
-    "id": 265,
     "lang": "en"
 }
