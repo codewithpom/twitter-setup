@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+    "type": "twopart",
+    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+    "delivery": "Because 7 8 9 A?",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 42,
+    "id": 7,
     "safe": true,
     "lang": "en"
 }
