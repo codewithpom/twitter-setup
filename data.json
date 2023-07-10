@@ -1,8 +1,9 @@
 {
     "error": false,
     "category": "Programming",
-    "type": "single",
-    "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+    "type": "twopart",
+    "setup": "How can you tell an extroverted programmer?",
+    "delivery": "He looks at YOUR shoes when he's talking.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 51,
+    "id": 17,
     "safe": true,
     "lang": "en"
 }
