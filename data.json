@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 37,
+    "id": 12,
     "safe": true,
     "lang": "en"
 }
