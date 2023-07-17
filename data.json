@@ -2,8 +2,8 @@
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "What do you call a developer who doesn't comment code?",
-    "delivery": "A developer.",
+    "setup": "Why did the programmer quit his job?",
+    "delivery": "Because he didn't get arrays.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,7 +12,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 14,
+    "id": 16,
     "safe": true,
     "lang": "en"
 }
