@@ -2,7 +2,7 @@
     "error": false,
     "category": "Programming",
     "type": "single",
-    "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+    "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -11,7 +11,7 @@
         "sexist": false,
         "explicit": false
     },
-    "id": 259,
+    "id": 22,
     "safe": true,
     "lang": "en"
 }
