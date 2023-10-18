@@ -41,7 +41,7 @@ def work():
 def run():  
   data = work()
   id = data.data['id']
-  api.create_favorite(id)
+  
     
     
 
