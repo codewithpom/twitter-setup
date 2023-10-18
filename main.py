@@ -34,7 +34,7 @@ def work():
   data = get_joke()
   
   print("Making tweet")
-  print(data[0]['joke'] + "\n\n" + " ".join(data[1]))
+  print(data[0] + "\n\n" + " ".join(data[1]))
   data = client.create_tweet(text=data[0] + "\n\n" + " ".join(data[1]))
   return data
 
