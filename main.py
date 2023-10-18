@@ -27,7 +27,7 @@ def get_joke():
     joke = random.choice(data['programming_jokes'])
     others = "#programming #programmingjoke #programminghumor #Python #Javascript".split(" ")
     for o in others:
-      jokes['hashtags'].append(o)
+      joke['hashtags'].append(o)
       
     return [joke['joke'], joke['hashtags']]
     
